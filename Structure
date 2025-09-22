@@ -1,0 +1,18 @@
+smart-skills-tutoring/
+│
+├─ index.html           ← Landing page
+├─ student.html         ← Student onboarding form
+├─ tutor.html           ← Tutor application form
+├─ trial.html           ← Trial booking form
+├─ referral.html        ← Referral dashboard
+├─ dashboard.html       ← Student dashboard placeholder
+├─ thankyou.html        ← Success page after submission
+├─ admin.html           ← Admin panel placeholder
+│
+├─ assets/
+│   ├─ css/
+│   │   └─ style.css    ← Basic styling
+│   └─ js/
+│       └─ app.js       ← All JS code with your Google Sheet integration
+│
+└─ README.md
